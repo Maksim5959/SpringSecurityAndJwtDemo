@@ -1,1 +1,1 @@
-# SpringSecurityAndJwtDemo
+# SpringSecurityPlusJwtDemo
